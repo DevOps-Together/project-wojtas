@@ -27,7 +27,7 @@ koniec dnia.
 *Następny dzień*
 Szefa jeszcze nie ma - bawisz sie ustawieniami VB - zmień by Virtualbox nie pracował w trybie sieciowym NAT a bridge (mostka).
 
-![VB](0/img/VB1.jpg?raw=true "VB network")
+![VB](img/VB1.jpg?raw=true "VB network")
 
  
   - Uruchom ponownie maszynę i sprawdź jaki ma IP i jak możesz teraz sie z nia połączyć.
