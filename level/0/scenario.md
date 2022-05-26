@@ -59,7 +59,7 @@ Dowiadujesz się że jutro przychodzi dEvElOpEr Wordpress.
 
 **Następny dzień**
 
-Od rana spotykasz nowego kolegę - to jakiś student który jeszcze się uczy i pracuje na na śmieciówce (bo jakżeby inaczej). Sytuacja jest identyczna jak u Ciebie - od rana idzie do szefa na rozmowę. Wracając prosi Cię o środowisko testowe dla swojego WP.
+Od rana spotykasz nowego kolegę - to jakiś student który jeszcze się uczy i pracuje na śmieciówce (bo jakżeby inaczej). Sytuacja jest identyczna jak u Ciebie - od rana idzie do szefa na rozmowę. Wracając prosi Cię o środowisko testowe dla swojego WP.
 
   - Easy way - klon w VB / hard way (recommend) - Zainstaluj nowy system ubuntu zrób kopie plików WP przy pomocy SCP lub/i rsync (możesz porownać czas). Zrób dump bazy danych (kopiowanie) i restore lub/i przez pipe (porównując czas).
 
