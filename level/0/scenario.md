@@ -52,7 +52,7 @@ Przychodzi żona szefa - Grażyna :D - próbowała wypełnić treściami WP ale 
 
   - Zaloguj się do MySQL i zmieć hasło dla admina - tak przez konsole (polecenie update);
 
-W Wordpressa i pehape coraz lepiej ci idzie, gdzies na forum wyczytałeś ze warto zabezpieczyć panel admina /admin htaccess tak by internetowe boty nie skanowały podatności.
+W Wordpressa i pehape coraz lepiej ci idzie, gdzies na forum wyczytałeś ze warto zabezpieczyć panel admina /admin auth_basic tak by internetowe boty nie skanowały podatności.
   - Zrób to!  Dodaj dwóch userów Janusz i Grażyna;
 
 Dowiadujesz się że jutro przychodzi dEvElOpEr Wordpress.
