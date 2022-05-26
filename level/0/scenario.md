@@ -1,8 +1,8 @@
 **Mój pierwszy raz**
 
-Twój ~~pierwszy~~ zerowy dzień w firmie. Przychodzisz i widzi że masz standardowego PECeta (jakiś gruz gorzej niż z bazaru) a nie laptopa ;(
-Po chwili kręcenia się przy swoim nowym biurku idziesz na rozmowę do szefa. Po 3 słowach poznajesz że jest to Janusz i od dziś zaczynasz pracę w JANUSZEX Z.O.O.
-Spoko jest to że polaczek biedaczek oszczędza na wszystkim, więc w biurze będzie tylko sam Linux i to Ubuntu - to chyba jedyna pozytywna rzecz w tej firmie xD
+Twój ~~pierwszy~~ zerowy dzień w firmie. Przychodzisz i widzisz, że masz standardowego PECeta (jakiś gruz gorzej niż z bazaru) a nie laptopa ;(
+Po chwili kręcenia się przy swoim nowym biurku idziesz na rozmowę do szefa. Po 3 słowach poznajesz, że jest to Janusz i od dziś zaczynasz pracę w JANUSZEX Z.O.O.
+Spoko jest to, że polaczek biedaczek oszczędza na wszystkim, więc w biurze będzie tylko sam Linux i to Ubuntu - to chyba jedyna pozytywna rzecz w tej firmie xD
 
  - przygotuj swoje stanowisko do pracy
 
