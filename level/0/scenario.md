@@ -18,7 +18,7 @@ Mówisz szefowi o zapotrzebowaniu na serwer, Odpowiedź jest szybka prosta nie m
   1. Zainstaluj Virtualbox;
   2. System operacyjny jaki chcesz - preferowany Ubuntu Server;
   3. Połącz się z nim przez puppy ( zainstaluj ssh);
-  4. “Postaw” wordpressa - najchętniej apache -  zobacz co jest w pliku wp config.php i .htaccess (nie będę pisał jak to zrobić jest całe mnóstwo gotowych tutoriali – jeżeli  masz problem #MAM PROBLEM POZIOM 0);
+  4. “Postaw” wordpressa - najchętniej apache -  zobacz co jest w pliku wp config.php i .htaccess (nie będę pisał jak to zrobić jest całe mnóstwo gotowych tutoriali – jeżeli  masz problem #MAM PROBLEM POZIOM 0 - https://discord.com/channels/786670250301063189/978961864736268318);
   5. Przekieruj port 80 tak aby był widoczny z IP twojego kompa - sprawdź czy dziala to w twojej lokalnej sieci;
   6. Dodaj jakis obrazek do WP - tak zeby nie był az taki pusty - zakładka media w panelu admina.
   7. Wyślij login i hasło do swojego szefa do panelu admina WP i URL (tak na niby..)
