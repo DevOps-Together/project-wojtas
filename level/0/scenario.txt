@@ -24,8 +24,9 @@ koniec dnia.
 
 *Następny dzień*
 Szefa jeszcze nie ma - bawisz sie ustawieniami VB - zmień by Virtualbox nie pracował w trybie sieciowym NAT a bridge (mostka).
+![VB](VB1.jpg?raw=true "VB network")
 
-
+https://github.com/DevOps-Together/project-wojtas/blob/main/level/0/Vb1.jpg?raw=true
 Uruchom ponownie maszynę i sprawdź jaki ma IP i jak możesz teraz sie z nia połączyć.
 Dlaczego tak się stało?
 (Dodatkowo) Opisz w kilku słowach w GIT przez strone www (https://github.com/DevOps-Together) dodaj plik w folderze poziom zero ze swoim nick i napisz co sie stało. 
