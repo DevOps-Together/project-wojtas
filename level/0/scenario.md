@@ -22,9 +22,11 @@ Mówisz szefowi o zapotrzebowaniu na serwer, Odpowiedź jest szybka prosta nie m
   5. Przekieruj port 80 tak aby był widoczny z IP twojego kompa - sprawdź czy dziala to w twojej lokalnej sieci;
   6. Dodaj jakis obrazek do WP - tak zeby nie był az taki pusty - zakładka media w panelu admina.
   7. Wyślij login i hasło do swojego szefa do panelu admina WP i URL (tak na niby..)
+  8. 
 koniec dnia.
 
 **Następny dzień**
+
 Szefa jeszcze nie ma - bawisz sie ustawieniami VB - zmień by Virtualbox nie pracował w trybie sieciowym NAT a bridge (mostka).
 
 ![VB](img/VB1.jpg?raw=true "VB network")
