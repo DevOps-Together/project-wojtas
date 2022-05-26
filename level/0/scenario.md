@@ -37,7 +37,7 @@ Szefa jeszcze nie ma - bawisz sie ustawieniami VB - zmień by Virtualbox nie pra
     (Dodatkowo) Opisz w kilku słowach w GIT przez strone www (https://github.com/DevOps-Together/project-wojtas/tree/main/level/0/comments) dodaj plik w folderze poziom zero ze swoim nick i napisz co sie stało. 
 
 W południe przychodzi szef - jest bardzo wku**** - próbował pokazać stronę kolegom pod adresem URL, który mu wczoraj wysłałeś. 
- <span style="color:red">Wyskoczyło coś tam connection i nie pokazywało się nic</span>. <b>Masz to jak najszybciej naprawić</b>. 
+ <span style="color:red">Wyskoczyło coś tam connection i nie pokazywało się nic</span>. **Masz to jak najszybciej naprawić**. 
 
 Mowisz cos o domenach i o tym, że końcówką .pl kosztuje około 100 netto. Szef schodzi prawie na zawał. Mówi, że za 100 ziko to kupić może cały zestaw śliwczanu kreatyny.
 
