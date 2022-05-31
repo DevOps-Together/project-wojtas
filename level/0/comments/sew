@@ -1,0 +1,5 @@
+Po zmianie na Bridged Adapter maszyna wirtualna uzyskała adres po DHCP, znalazła się w tej samej sieci co host i jest wykrywana w tej sieci przez inne urządzenia.
+
+Na db wordpress, trzeba zaktualizować IP na obecne:
+update wp_options set option_value='<IP>’ where option_name = 'siteurl';
+update wp_options set option_value='<IP>’ where option_name = 'home';
