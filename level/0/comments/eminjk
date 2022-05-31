@@ -1,0 +1,4 @@
+bridge powoduje, że virtualka z poziomu sieci hosta wygląda jak maszyna podłączona bezpośrednio do tej sieci, czyli powinna dostać po dhcp ip z tego samegu subnetu. 
+
+Więcej czasu straciłem jednak na usiłowaniu odpalenia wodpressa w przeglądarce po tym jak, ustawienia sieci zostały jako bridge.
+Ta łajza zapamiętała sobie siteurl/home jako IP hosta z przekierowanym portem, który po wyłączeniu NATu nie miał już sensu bo IP virtualki się zmieniło.
