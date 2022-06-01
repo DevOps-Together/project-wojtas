@@ -35,7 +35,9 @@ Szefa jeszcze nie ma - bawisz sie ustawieniami VB - zmień by Virtualbox nie pra
   - Uruchom ponownie maszynę i sprawdź jaki ma IP i jak możesz teraz sie z nią połączyć.
     Dlaczego tak się stało?
     (Dodatkowo) Opisz w kilku słowach w GIT przez strone www (https://github.com/DevOps-Together/project-wojtas/tree/main/level/0/comments) dodaj plik w folderze poziom zero ze swoim nick i napisz co sie stało. 
-Przywróć z powrotem poprzednie ustawienia (NAT) i zrestartuj maszynę. Ufff. Znowu wszystko działa.
+  - Przywróć z powrotem poprzednie ustawienia (NAT) i zrestartuj maszynę. Ufff. Znowu wszystko działa.
+
+Dodaj dwóch nowych userów Janusz i Grażyna;
 
 W południe przychodzi szef - jest bardzo wku**** - próbował pokazać stronę kolegom pod adresem URL, który mu wczoraj wysłałeś. 
  <span style="color:red">Wyskoczyło coś tam connection i nie pokazywało się nic</span>. **Masz to jak najszybciej naprawić**. 
@@ -53,12 +55,11 @@ Oczywiste jest to, że trzeba zrobić port forwarding na routerze - jeśli tego 
 
 Przychodzi żona szefa - Grażyna :D - próbowała wypełnić treściami WP ale mówi, że dane które jej wysłałeś do logowania nie działają.
 
-  - Zaloguj się do MySQL i zmieć hasło dla admina - tak przez konsole (polecenie update);
+  - Zaloguj się do MySQL i zmień jej hasło - tak przez konsole (polecenie update);
 
 W Wordpressa i pehape coraz lepiej ci idzie, gdzies na forum wyczytałeś ze warto zabezpieczyć panel admina `/wp-admin` korzystająć z `auth_basic` tak by internetowe boty nie skanowały podatności.
-  - Zrób to!  
+  - Zrób to i sprawdź czy działa!  
 
-Dodaj dwóch nowych userów Janusz i Grażyna;
 
 Dowiadujesz się że jutro przychodzi dEvElOpEr Wordpress.
 
