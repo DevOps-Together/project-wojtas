@@ -1,0 +1,1 @@
+Bridge Adapter powoduje, że maszyna wirtualna wygląda jak podłączona bezpośrednio do sieci. Otrzymuje IP adres od DHCP. Na początku musiałem stworzyć sieć NAT by z Puppy połączyć się do Ubuntu, bo na początku mając ustawienie sieci na NAT, obie maszyny miały to samo IP.
