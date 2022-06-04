@@ -1,0 +1,4 @@
+Sprawa wyglada tak, ze ja ustawilem sobie od razu na vmce adres statyczny 10.0.2.5/24 z gw 10.0.2.2. Recznie ustawiony adres nawet po dodaniu routingu nie chcial mi pingac interetow, wydaje mi sie, ze to jakis bug po stronie vboxa, bo to powinno dzialac i zaczelo w koncu po xx apply/restarcie maszyny.
+Majac juz adres stytyczny w netplanie, po zmianie ustawien na bridge, sila rzeczy komunikacja padla - vmka od vboxa dostala adres z puli mojego routera domowego, a w srodku w netplanie byl dalej statyk.
+Po zmianie recznej na dhcp oczywiscie dostalem adres z sieci lokalnej LAN i wordpress zaczal pojawiac sie pod adresem z puli prywatnrej z dhcp. 
+W pewnym sensie nie zgadzam sie ze stwierdzeniem "Ufff. Znowu wszystko działa." bo dzialalo caly czas tylko po malych zmianach :)
