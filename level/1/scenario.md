@@ -118,6 +118,7 @@ Masz zrobić tak zeby wpisujac google.com i google.pl pokazywał się tekst:
 Ooo żesz kur*** gdzie ja pracuje...
 
 CDN
+Jak przy level 0 - podziekowania dla @https://github.com/bishtou @bishtou
 
 
 
