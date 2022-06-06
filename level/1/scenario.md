@@ -95,7 +95,8 @@ Więc jak to mówi stare chińskie przysłowie:
 
 Przez ramie widziałeś, że (nie) kolega kopiuje cały kod z Stackoverflow.
 
-Zadanie
+**Zadanie**
+
 Udajac, że Twoja testowa WP VMka - ta z dynamicznym IP - to komp studenta, zablokuj mu dostęp do Stackofverlow.
 Sprawdz w links czy blokada działa poprawie.
 Sposobow jest kilka - opisz je w GIT.
