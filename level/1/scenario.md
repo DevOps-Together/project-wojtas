@@ -2,7 +2,7 @@
 
 
 To znaczy Ty i cała firma -  w średniowieczu. 
-Słuchasz radia, takiego normalnego FM, czytasz gazeke z Lidla - a no bo w pracy, Janusz, zabrania mieć prywatny telefon ;/. Z pokoju szefa słyychac tylko same przeklenstwa i muzyczke oczekiwania na lini, bo szef dzwoni do ISPa. “Jak by to była ich wina” - śmiejesz sie w głowie sam do siebie :D. Po prawie godzinie oczekiwania, wychodzi szef - caly czerwony - jak by wrocił z wakacji z Chorwacji i pyta się czy masz jakiś pomysł.
+Słuchasz radia, takiego normalnego FM, czytasz gazeke z Lidla - a no bo w pracy, Janusz, zabrania mieć prywatny telefon ;/. Z pokoju szefa słychac tylko same przeklenstwa i muzyczke oczekiwania na lini, bo szef dzwoni do ISPa. “Jak by to była ich wina” - śmiejesz sie w głowie sam do siebie :D. Po prawie godzinie oczekiwania, wychodzi szef - caly czerwony - jak by wrocił z wakacji z Chorwacji i pyta się czy masz jakiś pomysł.
 
 Nie pracujesz tu od wczoraj więc odpowiedź jest prosta - 
 TO JA ZROBIĘ SAM ROUTER!!!
@@ -25,7 +25,7 @@ Cale szczęście ze ma i5, 16G RAMu oraz dysk SSD - jest już na czym pracować 
 
 **Zadanie**. 
 - do nowego systemu NAZWIJ ja gateway w VB dodaj kolejny interface do systemu w ustawieniach sieci. 
-- 
+
 ![VB](img/VB2.png?raw=true "VB network")
 
 Pozostałe dwa systemy przestaw by też korzystały wyłacznie z tej sieci wewnętrznej. 
@@ -39,7 +39,7 @@ Pobaw sie tcpdump na gateway np. tcpdump -iany
 Zobacz jak wygladą ruch, czy widzisz te same pakiety dwa razy? 
 Dla potrzebujących - napisz na #mam problem (https://discord.com/channels/786670250301063189/982994686098702349) jak nie wiesz jak, ale zanim to zrobisz pomyśl co jest potrzebne by komptuery mogły ze sobą rozmawiać :D 
 
-Ok no to już masz swojego kompa, nowy system, od razu widac ze dysk SSD robi robotę. 
+Ok - no to już masz swojego kompa, nowy system, od razu widac ze dysk SSD robi robotę. 
 Aż chce się pracować, a roboty jest dużo bo narazie tylko ty masz dostep do Internetu. Spryciula dodałeś sobie statycznie adress IP z puli. Żeby jeszcze bardziej zdenerować swojego (nie)kolege studenta, puszczasz muzyke z YT (:D) i czekasz na reklamy. “Wyprobuj subpskrycpji premium na YOUTUBE”!!! 
 
 
@@ -56,7 +56,7 @@ W odpowiedzi uzyskujesz ze nie moze nic wgrać na SFTP.
 Masz dobry humor to pomożesz temu nieszczęsnemu biedakowi. Logujesz sie przez ssh na testowy WP i...
 
 “”Wykonaj polecenie 
-!!! UWAGA !!! nie rób tego na swoim PC - ma byc to  zrobione w VMce w VB
+!!! UWAGA !!! nie rób tego na swoim PC - ma byc to zrobione w VMce w VB
 fallocate -l 50G big_file
 “”
 
