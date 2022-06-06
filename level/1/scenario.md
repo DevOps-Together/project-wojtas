@@ -90,6 +90,7 @@ Ma już na koncie 3 minusy:
    - Zamiast napisać JANUSZEX napisal JANUSZ-SEX i do tego ten dysk (to Twój cenny dysk SSD)
    
 Więc jak to mówi stare chińskie przysłowie:
+
 ![VB](img/przyslowie.jpeg?raw=true "przyslowie")
 
 Przez ramie widziałeś, że (nie) kolega kopiuje cały kod z Stackoverflow.
