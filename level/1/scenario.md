@@ -35,7 +35,10 @@ Od tej chwili bedziemy ta maszyne nazywać ROUTER albo GATEWAY. Więc warto by p
 Na ROUTER zrób tak żeby teraz Linux byl własnie routerem (bez DHCP i DNS - jeszcze).
 Warto wyznaczyc adresację, której potem musisz sie trzymać!
 Na jednej VMce dodaj statyczny adres - zobacz czy działa ping do jakiejś domeny.
-Pobaw sie tcpdump na gateway np. tcpdump -iany 
+Pobaw sie tcpdump na gateway np.
+
+`tcpdump -iany` 
+
 Zobacz jak wygladą ruch, czy widzisz te same pakiety dwa razy? 
 Dla potrzebujących - napisz na #mam problem (https://discord.com/channels/786670250301063189/982994686098702349) jak nie wiesz jak, ale zanim to zrobisz pomyśl co jest potrzebne by komptuery mogły ze sobą rozmawiać :D 
 
@@ -57,7 +60,7 @@ Masz dobry humor to pomożesz temu nieszczęsnemu biedakowi. Logujesz sie przez 
 
 “”Wykonaj polecenie 
 !!! UWAGA !!! nie rób tego na swoim PC - ma byc to zrobione w VMce w VB
-fallocate -l 50G big_file
+`fallocate -l 50G big_file`
 “”
 
 Sprawdzasz zajetość dysku, a tam 100% 
