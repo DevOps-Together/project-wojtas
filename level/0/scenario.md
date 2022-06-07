@@ -80,3 +80,4 @@ KONIEC poziom 0 - jeżeli zrobiłes przekierowanie portów na swoim domowym rout
 
 Podziekowania dla @https://github.com/bishtou
 @bishtou
+
