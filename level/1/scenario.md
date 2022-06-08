@@ -69,13 +69,13 @@ Rozszerz dysk na tej VMce.
 
 **Następny dzień**
 
-Grażyna wpada do pokoju, drze sie i miota jakby by ją opętał jakiś szatan.
-Z słów ktore wypływaja z jej ust rozumiesz ze kolega developer na wszytkich artykuach wpisał JANUSZ-SEX. Beka ma maksa, az sie poplakales ze śmiechu.
-Ale poprawiać po nim będziesz musial TY.
+Grażyna wpada do pokoju, drze się i miota jakby by ją opętał jakiś szatan.
+Z słów które wypływaja z jej ust rozumiesz że kolega developer na wszystkich artykułach wpisał JANUSZ-SEX. Beka ma maksa, aż się popłakałes ze śmiechu.
+Ale poprawiać po nim będziesz musiał TY.
 
-Google zaindekstowalo juz strone /JANUSZ-SEX 
+Google zaindekstowalo już stronę /JANUSZ-SEX 
 
-Zrób rewite by nazwa strony była ok.
+Zrób rewite żeby nazwa strony była ok.
 
 Zostaje kwestja tektu ktory jest w WP.
 Poszukaj w necie czy da sie co z tym zrobić i to bez update MySQL
