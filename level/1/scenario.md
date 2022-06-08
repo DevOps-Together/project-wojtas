@@ -2,7 +2,7 @@
 
 
 To znaczy Ty i cała firma -  w średniowieczu. 
-Słuchasz radia, takiego normalnego FM, czytasz gazeke z Lidla - a no bo w pracy, Janusz, zabrania mieć prywatny telefon ;/. Z pokoju szefa słychac tylko same przeklenstwa i muzyczke oczekiwania na lini, bo szef dzwoni do ISPa. “Jak by to była ich wina” - śmiejesz sie w głowie sam do siebie :D. Po prawie godzinie oczekiwania, wychodzi szef - caly czerwony - jak by wrocił z wakacji z Chorwacji i pyta się czy masz jakiś pomysł.
+Słuchasz radia, takiego normalnego FM, czytasz gazekę z Lidla - no bo w pracy, Janusz, zabrania mieć prywatny telefon ;/. Z pokoju szefa słychac tylko same przekleństwa i muzyczkę oczekiwania na lini, bo szef dzwoni do ISPa. “Jak by to była ich wina” - śmiejesz sie w głowie sam do siebie :D. Po prawie godzinie oczekiwania, wychodzi szef - cały czerwony - jak by wrócił z wakacji z Chorwacji i pyta się czy masz jakiś pomysł.
 
 Nie pracujesz tu od wczoraj więc odpowiedź jest prosta - 
 TO JA ZROBIĘ SAM ROUTER!!!
@@ -15,13 +15,13 @@ Robisz reinstall swojego kompa i cala sieć wyglada teraz tak:
 
 ![boom](img/siec.png?raw=true "siec")
 
-W tym czasie szef przywozi komputer Dzesiki. Jest caly zawalony jakimis najrozniejszmy naklejkami. Stickerbomb to przy tym nic. 
+W tym czasie szef przywozi komputer Dzesiki. Jest caly zawalony jakimiś najróżniejszmy naklejkami. Stickerbomb to przy tym nic. 
 
 To jest stickerbomb :D
 
 ![boom](img/sticketbomb.jpg?raw=true "stickerbomb")
 
-Cale szczęście ze ma i5, 16G RAMu oraz dysk SSD - jest już na czym pracować :)
+Całe szczęście że ma i5, 16G RAMu oraz dysk SSD - jest już na czym pracować :)
 
 **Zadanie**. 
 - do nowego systemu NAZWIJ ja gateway w VB dodaj kolejny interface do systemu w ustawieniach sieci. 
@@ -30,7 +30,7 @@ Cale szczęście ze ma i5, 16G RAMu oraz dysk SSD - jest już na czym pracować 
 
 Pozostałe dwa systemy przestaw by też korzystały wyłacznie z tej sieci wewnętrznej. 
 
-Od tej chwili bedziemy ta maszyne nazywać ROUTER albo GATEWAY. Więc warto by przestawić nazwe w VB i hostname na którąś z tych.
+Od tej chwili będziemy tę maszyne nazywać ROUTER albo GATEWAY. Więc warto by przestawić nazwe w VB i hostname na którąś z tych.
 
 Na ROUTER zrób tak żeby teraz Linux byl własnie routerem (bez DHCP i DNS - jeszcze).
 Warto wyznaczyc adresację, której potem musisz sie trzymać!
