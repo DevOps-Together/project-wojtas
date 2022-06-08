@@ -69,7 +69,7 @@ Rozszerz dysk na tej VMce.
 
 **Następny dzień**
 
-Grayna wpada do pokoju, drze sie i miota jakby by ją opętał jakiś szatan.
+Grażyna wpada do pokoju, drze sie i miota jakby by ją opętał jakiś szatan.
 Z słów ktore wypływaja z jej ust rozumiesz ze kolega developer na wszytkich artykuach wpisał JANUSZ-SEX. Beka ma maksa, az sie poplakales ze śmiechu.
 Ale poprawiać po nim będziesz musial TY.
 
