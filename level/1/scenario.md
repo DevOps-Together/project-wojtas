@@ -24,7 +24,7 @@ To jest stickerbomb :D
 Całe szczęście że ma i5, 16G RAMu oraz dysk SSD - jest już na czym pracować :)
 
 **Zadanie**. 
-- do nowego systemu NAZWIJ ja gateway w VB dodaj kolejny interface do systemu w ustawieniach sieci. 
+- Utwórz nową VM i dodaj do niej drugi interfejs sieciowy (internal network)
 
 ![VB](img/VB2.png?raw=true "VB network")
 
@@ -43,13 +43,13 @@ Zobacz jak wygladą ruch, czy widzisz te same pakiety dwa razy?
 Dla potrzebujących - napisz na #mam problem (https://discord.com/channels/786670250301063189/982994686098702349) jak nie wiesz jak, ale zanim to zrobisz pomyśl co jest potrzebne by komptuery mogły ze sobą rozmawiać :D 
 
 Ok - no to już masz swojego kompa, nowy system, od razu widac ze dysk SSD robi robotę. 
-Aż chce się pracować, a roboty jest dużo bo narazie tylko ty masz dostep do Internetu. Spryciula dodałeś sobie statycznie adress IP z puli. Żeby jeszcze bardziej zdenerować swojego (nie)kolege studenta, puszczasz muzyke z YT (:D) i czekasz na reklamy. “Wyprobuj subpskrycpji premium na YOUTUBE”!!! 
+Aż chce się pracować, a roboty jest dużo bo narazie tylko ty masz dostep do Internetu. Spryciula dodałeś sobie statycznie adress IP z puli. Żeby jeszcze bardziej zdenerować swojego (nie)kolege studenta, puszczasz muzyke z YT (:D) i czekasz na reklamy. “Wypróbuj subskrybcji premium na YOUTUBE”!!! 
 
 
 Na router doinstaluj DHCP lub dnsmasq. Zrób tak żeby druga VMka pobrała addres.
 Jako DNS wybierz 1.1.1.1 lub 8.8.8.8.
 
-Potiwerdz że Internet z VMki działa.
+Potwierdź, że Internet z VMki działa.
 
 **Następny dzień**
 
