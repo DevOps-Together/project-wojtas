@@ -54,8 +54,8 @@ Potwierdź, że Internet z VMki działa.
 **Następny dzień**
 
 Jestes zachwalany przez szefa i koleżnaki z pracy. Na Twoim biurku jest małe ciasto.
-Twoj kolega WP devloper jest nie w sosie od rana. Pytasz co sie stało.
-W odpowiedzi uzyskujesz ze nie moze nic wgrać na SFTP.
+Twój kolega WP developer jest nie w sosie od rana. Pytasz co sie stało.
+W odpowiedzi uzyskujesz że nie może nic wgrać na SFTP.
 Masz dobry humor to pomożesz temu nieszczęsnemu biedakowi. Logujesz sie przez ssh na testowy WP i...
 
 “”Wykonaj polecenie 
