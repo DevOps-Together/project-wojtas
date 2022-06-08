@@ -77,7 +77,7 @@ Google zaindekstowalo już stronę /JANUSZ-SEX
 
 Zrób rewite żeby nazwa strony była ok.
 
-Zostaje kwestja tektu ktory jest w WP.
+Zostaje kwestia tekstu który jest w WP.
 Poszukaj w necie czy da sie co z tym zrobić i to bez update MySQL
 <details><summary>Hint</summary>
 https://httpd.apache.org/docs/2.4/mod/mod_substitute.html
@@ -88,7 +88,7 @@ https://httpd.apache.org/docs/2.4/mod/mod_substitute.html
 
 Twój współpracownik wkurwił Cię. 
 Ma już na koncie 3 minusy: 
-   - Zjad kawałek Twojego ciasta;
+   - Zjadł kawałek Twojego ciasta;
    - Nie chciał pożyczyć Ci 2 złote na Twojego ulubionego enegetyka;
    - Zamiast napisać JANUSZEX napisal JANUSZ-SEX i do tego ten dysk (to Twój cenny dysk SSD)
    
@@ -101,16 +101,16 @@ Przez ramie widziałeś, że (nie) kolega kopiuje cały kod z Stackoverflow.
 **Zadanie**
 
 Udajac, że Twoja testowa WP VMka - ta z dynamicznym IP - to komp studenta, zablokuj mu dostęp do Stackofverlow.
-Sprawdz w links czy blokada działa poprawie.
-Sposobow jest kilka - opisz je w GIT.
+Sprawdź w Links czy blokada działa poprawie.
+Sposobów jest kilka - opisz je w GIT.
 
 
-**Ostani dzien tygodnia - prawie weekned**
+**Ostani dzień tygodnia - prawie weekend**
 
-Szef chodzi po pokoju jak by jego Iwatch kazal mu zrobic 10 kilometrów - ale to nie był on (w sensie zegerek) tylko jego nowe kokosowe dopalacze (pewnie rozkruszone batony Kizzersa).
+Szef chodzi po pokoju jakby jego Iwatch kazał mu zrobić 10 kilometrów - ale to nie był on (w sensie zegerek) tylko jego nowe kokosowe dopalacze (pewnie rozkruszone batony Kizzersa).
 
 Janusz podchodzi do Ciebie bardzo blisko, wasze nosy prawie sie spotykają.
-Mowi że od teraz przejmujemy cały Internet.
+Mówi że od teraz przejmujemy cały Internet.
 Masz zrobić tak zeby wpisujac google.com i google.pl pokazywał się tekst:
 
 **“JANUSZ RONDZI SWIATEM”**
