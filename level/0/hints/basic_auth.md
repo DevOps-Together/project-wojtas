@@ -73,7 +73,7 @@ Obecna zawartość pliku `wordpress.conf`:
 </VirtualHost>
 ```
 
-#### Rozwiązanie z użyciem `Directory` sprowadza się do dodania kolejnej dyrektywy do pliku konfiguracyjnego:
+##### Rozwiązanie z użyciem `Directory` sprowadza się do dodania kolejnej dyrektywy do pliku konfiguracyjnego:
 ```
    <Directory /srv/www/wordpress/wp-admin>
     	AuthType Basic
@@ -135,7 +135,7 @@ Na koniec sprawdzamy, czy działa:
 
 ![hint](../img/hint-auth-09.png)
 
->> BTW. pamiętaj, że to nasz bohater wyczytał sobie gdzieś na forum, że tak się zabezpiecza Wordpressa, żeby go nie
+> BTW. pamiętaj, że to nasz bohater wyczytał sobie gdzieś na forum, że tak się zabezpiecza Wordpressa, żeby go nie
 > skanowały boty. Osobiście uważam, że to nie do końca prawda, niemniej jednak w opisany sposób można zabezpieczyć 
 > folder w Apache przy użyciu `basic_auth` 
 > 
