@@ -25,6 +25,11 @@ Musisz coś wykombinować. Wpadasz na pomysł, że zrobisz to na swoim kompie po
   7. Wyślij login i hasło do swojego szefa do panelu admina WP i URL (tak na niby..);
   8. Koniec dnia.
 
+<details><summary>TIP - ciekawy artykuł, który może pomóc na tym etapie dotyczy konfiguracji sieci w Ubuntu: </summary>     
+https://ubuntu.com/server/docs/network-configuration
+</p>
+</details>
+ 
 **Następny dzień**
 
 Szefa jeszcze nie ma - bawisz sie ustawieniami VB - zmień by Virtualbox nie pracował w trybie sieciowym NAT a bridge (mostka).
