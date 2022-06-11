@@ -1,0 +1,7 @@
+Zmiana NAT na Bridge powoduje wypuszczenie vm'ki "na Świat"
+Wcześniej maszyna wirtualna była schowana za NATem hosta.
+W trybie bridge dostaje wlasne ip od routera domowego.
+
+Również miałem problemy z VirtualBoxem, jak jeden z kolegów (NAT nie pozwalał łączyć się do vm'ki z hosta)
+
+Na ta chwile został mi do zrobienia ostatni punkt poziomu 0. Pewnie skończe dzisiaj/jutro i wtedy zacznę szukać informacji nt. konfiguracji poziomu 1
