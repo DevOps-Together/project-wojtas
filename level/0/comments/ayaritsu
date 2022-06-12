@@ -1,0 +1,11 @@
+Głównie chodzi o to:
+https://wordpress.org/support/article/changing-the-site-url/
+
+W skrócie, adres na którym pracuje i jakiego oczekuje ( co zostało zmienione przy zmianie z NAT'u na Bridge ) WP jest hardcodowany, ma to swoje wady i zalety, nie wdając się w szczegóły, można było to naprawić na parę sposobów, wybrałem najbardziej "trwały", czyli zmiana w bazie danych:
+
+UPDATE wp_options SET option_value='http://IP_adress' WHERE option_name = 'siteurl';
+UPDATE wp_options SET option_value='http://IP_adress' WHERE option_name = 'home';
+
+
+Dla osób które by to czytały i nie mogły dostać się przez NAS...poczytajcie o port forwarding dla VirtualBox'a:
+https://www.howtogeek.com/122641/how-to-forward-ports-to-a-virtual-machine-and-use-it-as-a-server/
