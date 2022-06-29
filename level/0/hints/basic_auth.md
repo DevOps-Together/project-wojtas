@@ -139,4 +139,6 @@ Na koniec sprawdzamy, czy działa:
 > skanowały boty. Osobiście uważam, że to nie do końca prawda, niemniej jednak w opisany sposób można zabezpieczyć 
 > folder w Apache przy użyciu `basic_auth` 
 > 
-
+Słowa, że tak sie zabezpiecze wordpressa moża różnie zrozumieć - to co właśnie wykonaliśmy pozwala w jakiś sposób zabezpieczyć dostęp do ścieżek/adresów, z których logujemy się do panelu admina - a to jedna z wielu składowych, które mogą pomóc. Nie znam metody, żeby to obejść - ktoś zna? Mówię o httpsie oczywiście włączonym.
+Sprawdźcie na swoich instancjach, czy zabezpieczyliście w ten sposób dostęp do /wp-login.php oraz /wp-admin. 
+To w sumie mój pierwszy commit w życiu, ten komentarz hehe:)
