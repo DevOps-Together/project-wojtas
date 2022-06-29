@@ -5,7 +5,7 @@ Kota nie ma to myszy harcują, a jak nie ma szefa to informatycy hakują :D
 
 Wracasz po weeknedzie...
 
-Ale jak to? Nie ma szefa? Pytasz koleżnaki(rekruterki) - TAK, nie go przez całe 2 tygodnie. Wybrał się na wycieczkę na Malediwy. 
+Ale jak to? Nie ma szefa? Pytasz koleżnaki(rekruterki) - TAK, nie go przez całe 2 tygodnie. Wybrał się na yacht na Malediwy. 
 Wychodząc z pokoju HR, miałeś już na końcu języka: "hip hip hura!" - ale miła koleżanka z działu HR dodała, że szef zostawił Ci firmową kartę - tak na wypadek nieprzewidzianych zakupów.
 No to takie wiesci, że nic tylko "zesrać się" ze szczęścia :D
 
