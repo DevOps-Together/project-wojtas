@@ -33,6 +33,9 @@ Od rana, jeszcze w biurze, cieszysz się swoim VPSem - ale robota czeka.
 Na początek "przeklikując" postaw VMke na Proxmox'ie (nie będe opisywał jak - na YT jest masa tutoriali). 
 Poproś w wątku - https://discord.com/channels/786670250301063189/991589776954245120, o dostęp do serwera PROXMOX.
 
+A jesli masz problem to pomocy szukaj
+https://discord.com/channels/786670250301063189/991589619474903110
+
 UWAGA!!! 
 Mamy mało miejsca na dysku i wolnych portow, więc razem z wstawieniem servera VPN otrzymasz port, na którym mozesz wystawić uslugę. 
 Po skończeniu zadania usuń VMke, żeby zwolnić innym zasoby potrzebne do wykonania zadania. 
