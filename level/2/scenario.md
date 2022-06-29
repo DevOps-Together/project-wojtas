@@ -68,3 +68,5 @@ Kolega z innej firmy polecił, by zautomyatyzowac caly proces wdrażania.
 Przez to będziemy często usuwać VMki, napisz automatyzację do jej tworzenia.
 Kod terraform + playbook z ansible'a wrzuć do repozytorium, do folderu ze swoim użytkownikiem - PAMIĘTAJ BY NIE DODAĆ LOGINU I HASŁA DO REPOZYTORIUM !!!
 Zrób jak najwięcej używając komend git'a, a nie przez stronę WWW.
+
+Podziekowania dla @wwakas aka mv5112 
